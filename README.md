@@ -1,8 +1,8 @@
 # Bio-tech-intern
 bio-medical-pattern-processing
 
-writter:chai duo
+Writter:Duo Chai
 
-date:2018.8.15
+Date:2018.8.15
 
-main library:python,pandas,numpy,scikitlearn,SimpleITK,pyradiomics
+Main library:python,pandas,numpy,scikitlearn,SimpleITK,pyradiomics
